@@ -1,0 +1,27 @@
+_repo: A-Syllabus-of-Hispanic-American-History_43422
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43422-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Pierson, William Whatley, Jr.
+    alias: Pierson, W. W., Jr.‏ (William Whatley)
+    birthdate: 1890
+    deathdate: 1966
+    gutenberg_agent_id: '42199'
+    url: http://www.gutenberg.org/2009/agents/42199
+description: ''
+gutenberg_issued: '2013-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin America -- History -- Outlines, syllabi, etc.'
+- !lcc 'F1401'
+title: A Syllabus of Hispanic-American History
+url: http://www.gutenberg.org/ebooks/43422
